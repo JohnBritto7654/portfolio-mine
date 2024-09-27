@@ -1,0 +1,5 @@
+.myImage img
+{
+box-shadow: 12px 8px 20px orange;
+/* filter: drop-shadow(12px 8px 20px orange); */
+}
